@@ -9,6 +9,7 @@ This repository aims to provide a high level overview of many fundamental digita
 * [Windowing](windowing.ipynb)
 * [Scalloping Loss](scalloping_loss.ipynb)
 * [Zero Padding](zero_padding.ipynb)
+* [DFT Processing Gain](dft_processing_gain.ipynb)
 
 ## Citations
 [1] Lyons, R. G. (2010). Understanding digital signal processing: United States edition (3rd ed.). Prentice Hall.
