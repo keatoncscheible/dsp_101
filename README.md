@@ -10,6 +10,8 @@ This repository aims to provide a high level overview of many fundamental digita
 * [Scalloping Loss](scalloping_loss.ipynb)
 * [Zero Padding](zero_padding.ipynb)
 * [DFT Processing Gain](dft_processing_gain.ipynb)
+* [Convolution](convolution.ipynb)
 
 ## Citations
 [1] Lyons, R. G. (2010). Understanding digital signal processing: United States edition (3rd ed.). Prentice Hall.
+[2] Wefers, F. (2015). Partitioned convolution algorithms for real-time auralization. Logos Verlag Berlin.
