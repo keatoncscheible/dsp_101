@@ -13,6 +13,6 @@ This repository aims to provide a high level overview of many fundamental digita
 * [Convolution](convolution.ipynb)
 * [Partitioned Convolution](partitioned_convolution.ipynb)
 
-## Citations
-[1] Lyons, R. G. (2010). Understanding digital signal processing: United States edition (3rd ed.). Prentice Hall.
+## References
+[1] Lyons, R. G. (2010). Understanding digital signal processing: United States edition (3rd ed.). Prentice Hall.<br>
 [2] Wefers, F. (2015). Partitioned convolution algorithms for real-time auralization. Logos Verlag Berlin.
