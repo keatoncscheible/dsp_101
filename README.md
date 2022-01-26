@@ -1,5 +1,5 @@
 # Digital Signal Processing 101
-This repository aims to provide a high level overview of many fundamental digital signal processing (DSP) concepts. Much of the content here is derived from Rick Lyons book, "Understanding Digital Signal Processing" [1].
+This repository aims to provide a high level overview of many fundamental digital signal processing (DSP) concepts. The content here is a compilation from several [references](#references).
 
 ## Topics:
 * [Periodic Sampling](periodic_sampling.ipynb)
