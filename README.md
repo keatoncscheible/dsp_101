@@ -12,6 +12,7 @@ This repository aims to provide a high level overview of many fundamental digita
 * [DFT Processing Gain](dft_processing_gain.ipynb)
 * [Convolution](convolution.ipynb)
 * [Partitioned Convolution](partitioned_convolution.ipynb)
+* [Filters with Multiple Inputs and Multiple Outputs](multi_io_filters.ipynb)
 
 ## References
 [1] Lyons, R. G. (2010). Understanding digital signal processing: United States edition (3rd ed.). Prentice Hall.<br>
